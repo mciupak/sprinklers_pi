@@ -11,7 +11,7 @@
 #include "port.h"
 #include "settings.h"
 
-#define NEUTRAL_HUMIDITY 30
+#define NEUTRAL_HUMIDITY 60
 
 #define PRECIP_FACTOR 100.0
 #define WIND_FACTOR 10.0
